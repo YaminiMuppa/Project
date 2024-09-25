@@ -1,0 +1,53 @@
+
+body{
+    background-image: url("img/cer.jpg");
+    background-repeat: no-repeat;
+    background-position: top right;
+    background-color: beige;
+}
+.navbar{
+    margin-top: 20px;
+    text-align: center;
+}
+.navbar a{
+          text-decoration: none;
+          color:rgb(146, 101, 46);
+          padding-bottom: 5px;
+          font-family: Georgia, 'Times New Roman', Times, serif;
+          padding:0px 10px;
+          
+}
+.navbar a:hover{
+    text-decoration: underline rgb(146, 101, 46);
+}
+.cart{
+    float: right;
+    padding-right: 15px;
+}
+.liv{
+    float:left;
+}
+img.a{
+    vertical-align: baseline;
+    text-align: center;
+}
+.b{
+    float: left;
+}
+h1{
+    margin-left:35%;
+    padding-left:100x;
+    padding-bottom: 50px;
+}
+.p{
+    width:50%;
+    color:rgb(146, 101, 46);
+    margin-top: 300px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size:14px;
+    text-align:left ;
+    
+}
+
+
+
