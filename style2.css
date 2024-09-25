@@ -1,0 +1,54 @@
+body{
+    background-color:lightgoldenrodyellow;
+}
+.side{
+    display: flex;
+    gap:20px;
+}
+.navbar{
+    margin-top: 20px;
+    text-align: center;
+}
+.navbar a{
+          text-decoration: none;
+          color:rgb(146, 101, 46);
+          padding-bottom: 5px;
+          font-family: Georgia, 'Times New Roman', Times, serif;
+          padding:0px 10px;
+          
+}
+.navbar a:hover{
+    text-decoration: underline rgb(146, 101, 46);
+}
+.cart{
+    float: right;
+    padding-right: 15px;
+}
+.liv{
+    float:left;
+}
+img.a{
+    vertical-align: baseline;
+    text-align: center;
+}
+.b{
+    float: left;
+}
+h1{
+    text-align: center;
+    color:rgb(45, 43, 43);
+}
+.f-l img{
+     width:100%;
+     height:30%;
+     margin-bottom:20px;
+     margin-left:10px;
+
+}
+.f-r img{
+    width:100%;
+    height:30%;
+    margin-bottom:20px;
+    margin-right:10px;
+
+}

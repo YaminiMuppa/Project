@@ -1,0 +1,71 @@
+body{
+    background-color:lightgoldenrodyellow;
+}
+.navbar{
+    margin-top: 20px;
+    text-align: center;
+}
+.navbar a{
+          text-decoration: none;
+          color:rgb(146, 101, 46);
+          padding-bottom: 5px;
+          font-family: Georgia, 'Times New Roman', Times, serif;
+          padding:0px 10px;       
+}
+.navbar a:hover{
+    text-decoration: underline rgb(146, 101, 46);
+}
+.cart{
+    float: right;
+    padding-right: 15px;
+}
+.liv{
+    float:left;
+}
+img.a{
+    vertical-align: baseline;
+    text-align: center;
+}
+.b{
+    float: left;
+}
+.c{
+    text-align: center;
+}
+
+#name{
+    padding:10px;
+    margin:10px;
+    width:40%
+}
+#email{
+    margin:10px;
+    width:45%;
+    padding:10px
+}
+
+textarea {
+    width:90%;          
+    height: 50px;        
+    margin-bottom:30px;
+    margin-top: 10px;
+    text-align: center;   
+    padding: 10px;    
+    resize: vertical;  
+}
+
+
+
+.submit{
+    text-align: center;
+    color:rgb(8,8,8);
+}
+
+input[type="submit"]{
+    padding:5px;
+}
+.submit:hover{
+    border-radius:5px;
+    padding:3px;
+
+}
